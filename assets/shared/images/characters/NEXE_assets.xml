@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NEXE_assets.png"><SubTexture name="NEXE_assets idle0000" x="0" y="636" width="365" height="560" frameX="-181" frameY="-70" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets idle0001" x="365" y="636" width="365" height="558" frameX="-181" frameY="-73" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets idle0002" x="730" y="636" width="369" height="555" frameX="-181" frameY="-76" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets idle0003" x="1338" y="0" width="369" height="555" frameX="-181" frameY="-77" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets idle0004" x="1338" y="555" width="367" height="555" frameX="-181" frameY="-76" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets idle0005" x="0" y="636" width="365" height="560" frameX="-181" frameY="-70" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets left0000" x="486" y="0" width="478" height="598" frameX="-28" frameY="-47" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets left0001" x="486" y="0" width="478" height="598" frameX="-28" frameY="-47" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets right0000" x="964" y="0" width="374" height="572" frameX="-305" frameY="-71" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets right0001" x="964" y="0" width="374" height="572" frameX="-305" frameY="-71" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets down0000" x="0" y="1196" width="489" height="500" frameX="-96" frameY="-137" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets down0001" x="0" y="1196" width="489" height="500" frameX="-96" frameY="-137" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets up0000" x="0" y="0" width="486" height="636" frameX="-140" frameY="-12" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets up0001" x="0" y="0" width="486" height="636" frameX="-140" frameY="-12" frameWidth="755" frameHeight="674" />
+<SubTexture name="NEXE_assets up0002" x="0" y="0" width="486" height="636" frameX="-140" frameY="-12" frameWidth="755" frameHeight="674" />
+</TextureAtlas>
